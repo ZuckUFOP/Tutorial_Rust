@@ -1,0 +1,7 @@
+[package]
+name = "cap1"
+version = "0.1.0"
+authors = ["Fabricio Pereira <fabricio.rodrigues@aluno.ufop.edu.br>"]
+edition = "2018"
+
+[dependencies]

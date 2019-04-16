@@ -1,0 +1,6 @@
+Tutorial Rust
+Capitulo 1: Ensina a instalar e compilar "Hello World" (Cargo new, Cargo Build, Cargo Run)
+Capitulo 2: Ensina a criar um "Guess Game" (Apenas traduzido)
+Capitulo 3: Mostra o que Rust possui em comum com a maioria das linguagens
+Capitulo 4: Apresenta o Conceito de Owership(Propriedade) que torna automático o uso de desalocamento de espaço
+Capitulo 5: Mostra structs(Estruturas), e methods(metodos)
