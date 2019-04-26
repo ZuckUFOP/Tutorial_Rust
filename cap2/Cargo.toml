@@ -5,3 +5,4 @@ authors = ["Fabricio Pereira <fabricio.rodrigues@aluno.ufop.edu.br>"]
 edition = "2018"
 
 [dependencies]
+rand = "0.3.14"
