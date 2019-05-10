@@ -18,3 +18,5 @@ Capitulo 7: Começo da introdução a modulos e libs
 	-Parte 1: Cria lib com Cargo new --lib "nome_do_projeto"
 	
 	-Parte 2: Mostra funcionamento dos modulos
+
+Capitulo 8: Colecionadores: vetores strings e Hash map
