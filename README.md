@@ -20,3 +20,12 @@ Capitulo 7: Começo da introdução a modulos e libs
 	-Parte 2: Mostra funcionamento dos modulos
 
 Capitulo 8: Colecionadores: vetores strings e Hash map
+
+Capitulo 9: Tratamento de Erro
+
+Capitulo 10: Programação genérica
+
+	-Parte 1: Declaração de structs e funções que usam tipos genericos
+	
+	-Parte 2: Usando "trait" para definir caracteristicas comuns à structs
+
