@@ -28,4 +28,27 @@ Capitulo 10: Programação genérica
 	-Parte 1: Declaração de structs e funções que usam tipos genericos
 	
 	-Parte 2: Usando "trait" para definir caracteristicas comuns à structs
+	
+	-Parte 3: Limitando uma função generica à alguns tipos
+	
+	-Parte 4: Aprofundando em Tempo de vida de Variáveis e programando tempo de vidas genéricos
+
+Capitulo 11: Básico sobre testes
+	
+	-Parte 1: Como definir e escrever testes em rust, usando assert!, assert_ne! e assert_eq!
+	
+	-Parte 2: Outras especificações de teste
+	
+		. Cargo test -- --test-threads=num, onde num é um numero natural qualquer: define o numero de threads rodando o teste
+		
+		. Cargo test -- --nocapture: não imprime na tela os prints do teste
+		
+		. Cargo test nome_da_função: define testar apenas as funções com este prefixo (Obs.: Se existir apenas uma com esse 
+		prefixo apenas ela é rodada)
+		
+		. #[ignore]: um atributo para ignorar determinada função de teste
+		
+		. Cargo test -- --ignored: roda teste de todas as funções mesmo se elas tiverem o atributo ignore
+
+
 
